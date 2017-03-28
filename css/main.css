@@ -4,7 +4,7 @@
    Author's custom styles
    ========================================================================== */
 .navbar-personalizado{
-	background-color: #DAF12C;	
+	background-color: #1AE253;	
 	border-radius: 0;
 	margin-bottom: 0;
 }
@@ -180,4 +180,8 @@
 .dimension{
 	resize: none;
 }
+/*
+.list-group-item{
+	background-color: #E9F35D;		
+}*/
 
